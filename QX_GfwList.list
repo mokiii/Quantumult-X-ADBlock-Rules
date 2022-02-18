@@ -1,8 +1,11 @@
 # Project URL   (https://github.com/mokiii/Quantumult-X-ADBlock-Rules)
 # by Mokii
 # 黑名单中包含了 GFWList 中定义的无法访问的网站，剩下的网站直连。
-# Update time: 2022-01-24
+# Update time: 2022-02-18
 
+DOMAIN-SUFFIX,xchina.co,PROXY
+DOMAIN-SUFFIX,xchina.co,PROXY
+DOMAIN-SUFFIX,xchina.xyz,PROXY
 DOMAIN-SUFFIX,cercube.com,PROXY
 DOMAIN-SUFFIX,gfashion.com,PROXY
 DOMAIN-SUFFIX,gclubs.com,PROXY
